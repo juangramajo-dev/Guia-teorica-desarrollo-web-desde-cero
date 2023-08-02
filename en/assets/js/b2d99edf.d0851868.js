@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesarrollo_web=self.webpackChunkdesarrollo_web||[]).push([[7678],{3264:a=>{a.exports=JSON.parse('{"label":"mercado-laboral","permalink":"/en/blog/tags/mercado-laboral","allTagsPath":"/en/blog/tags","count":1}')}}]);

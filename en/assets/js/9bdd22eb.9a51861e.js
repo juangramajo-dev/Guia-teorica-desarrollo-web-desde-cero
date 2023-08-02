@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesarrollo_web=self.webpackChunkdesarrollo_web||[]).push([[2253],{5803:e=>{e.exports=JSON.parse('[{"label":"desarrollo-web","permalink":"/en/blog/tags/desarrollo-web","count":1},{"label":"mercado-laboral","permalink":"/en/blog/tags/mercado-laboral","count":1}]')}}]);

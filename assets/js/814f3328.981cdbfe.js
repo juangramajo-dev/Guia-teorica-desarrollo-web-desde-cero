@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdesarrollo_web=self.webpackChunkdesarrollo_web||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"La Importancia del Desarrollo Web en el Mercado Laboral","permalink":"/blog/desarrollo-web-importancia"}]}')}}]);
